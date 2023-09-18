@@ -57,9 +57,9 @@ class Customer:
         elif direction == 'right':
             new_col += 1
 
-        if self.supermarket.contents[new_row][new_col] == '.':
-            self.col = new_col
-            self.row = new_row    
+        #if self.supermarket.contents[new_row][new_col] == '.':
+        self.col = new_col
+        self.row = new_row    
 
 
 class SupermarketMap:
