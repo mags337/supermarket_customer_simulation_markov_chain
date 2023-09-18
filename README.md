@@ -1,6 +1,6 @@
 # Supermarket Customer Simulation Markov Chain
 
-![](/supermarket.png)
+![](/data/supermarket.png)
 
 
 A Markov Chain Monte Carlo simulation, modeling the dynamic customer behaviour in a supermarket.
